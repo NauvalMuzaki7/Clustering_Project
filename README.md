@@ -2,6 +2,8 @@
 Grouping Poverty by District/City in Central Java in 2021 Using K-Means Clustering
 
 ## Conclusion
+![Alt text](https://github.com/NauvalMuzaki7/Clustering_Project/blob/main/Screenshot%202025-03-02%20at%2016.24.23.png)
+
 Overall, the poverty situation in Central Java can be observed through several indicators, including the number of people living in poverty, the depth and severity of poverty, the highest human development index, the highest gender development index, families that have not achieved prosperity, inadequate sanitation conditions, unsafe drinking water sources, unemployed populations, and the use of cooking fuels such as firewood, charcoal, or kerosene.
 The conclusion drawn from the application of non-hierarchical cluster analysis method with the aim of classifying a group of Kabupaten/Kota in Jawa Tengah Province in 2021, totaling 35 observations, into several clusters based on similarities or common characteristics among observations, resulting in observations within the same cluster having greater similarity than objects outside the cluster. The outcome is that by determining 2 clusters using the silhouette method and K-means cluster analysis as a tool to group them, the cluster groups and members are as follows.
 
